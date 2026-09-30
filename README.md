@@ -2,7 +2,13 @@ SMS Terms and Conditions
 Institute for TMJ, Headache & Sleep, PLLC
 Effective Date: September 30, 2026
 
-By opting in to receive SMS messages from Institute for TMJ, Headache & Sleep, PLLC (“Institute for TMJ, Headache & Sleep,” “we,” “our,” or “us”), you agree to the following SMS Terms and Conditions.
+By opting in to receive SMS messages from Institute for TMJ, Headache & Sleep, you agree to receive customer care messages related to patient support and assistance.
+
+Message frequency: Message frequency may vary. On average, 1-2 messages per month.
+Message and data rates may apply.
+Privacy Policy: Your information will be handled in accordance with our Privacy Policy: https://github.com/gotoconnecttestuser-arch/Institute_TMJ_Headache-Sleep_PP
+You can opt out of SMS messages at any time by replying STOP.
+For help, reply HELP.
 
 1. Program Description
 
